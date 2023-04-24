@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1028679295967",
+    "firebase_url": "https://cupcake-870a3-default-rtdb.firebaseio.com",
+    "project_id": "cupcake-870a3",
+    "storage_bucket": "cupcake-870a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028679295967:android:d8103e43ca2f3582a85a6a",
+        "android_client_info": {
+          "package_name": "com.app.pharmacy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028679295967-ajtj00r14dqivn83chmand23qphvlh6o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5P70n0kWzYv-eoZ92_K_50m1R-x9GozU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028679295967-ajtj00r14dqivn83chmand23qphvlh6o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

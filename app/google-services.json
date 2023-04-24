@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "946319476029",
+    "project_id": "cacke-app",
+    "storage_bucket": "cacke-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946319476029:android:5a28f41f938b3547b47154",
+        "android_client_info": {
+          "package_name": "com.app.cacke"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946319476029-p4s2k4ioqsmh45pa02l8cglc3pg6in58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7wHHgin2Nqm2YhG-fVusKQ-uFPZPzEgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946319476029-p4s2k4ioqsmh45pa02l8cglc3pg6in58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946319476029:android:84b54045698ce1e5b47154",
+        "android_client_info": {
+          "package_name": "com.app.pharmacy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946319476029-p4s2k4ioqsmh45pa02l8cglc3pg6in58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7wHHgin2Nqm2YhG-fVusKQ-uFPZPzEgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946319476029-p4s2k4ioqsmh45pa02l8cglc3pg6in58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
